@@ -3,6 +3,7 @@ Da Rules for the Official Jenga Drinkinggame
 
 ## Benötigte Materialien  
 + Jenga mit 54 Steinen
++ 
 ## Optional
 + 3 Hüte
 
