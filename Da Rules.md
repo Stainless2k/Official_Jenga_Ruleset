@@ -3,20 +3,20 @@
 
 Zahl |<center>Anweisung </center> |Typ|Anz
 :---:|:---------------------|:-:|:-:
-0    |Double Dmg            | P | 1 
+0    |Double Dmg            | 3 | 1 
 1-5  |Alle                  | S | 5 
 6-10 |Nachbarn              | S | 5 
 11-15|Schere Stein Papier   | S | 5 
 16-20|Du                    | S | 5 
 21-25|Du wählst             | S | 5 
 26-30|Zugabe                | S | 5 
-31-35|Gib weiter und trink  | S | 5 
-36-39|Saufkumpane           | R | 4 
-40-43|Handwechsel           | R | 4 
-44-47|Can't touch this      | R | 4 
-48-51|Schleimer             | R | 4 
-52   |Kollateralschaden     | P | 1 
-53   |King Dmg              | P | 1 
+31-35|Voodoo Zauber         | S | 5 
+36-39|Saufkumpane           | I | 4 
+40-43|Handwechsel           | I | 4 
+44-47|Can't touch this      | I | 4 
+48-51|Schleimer             | I | 4 
+52   |Kollateralschaden     | 3 | 1 
+53   |King Dmg              | 3 | 1 
 
 ##2. General
 ###2.1. Normale Jenga™  Regeln
@@ -43,56 +43,53 @@ Zahl |<center>Anweisung </center> |Typ|Anz
 ###3.1 Sofort Aktion
 Anweisungen dieses Art müssen sofort ausgeführt werden, erst danach darf weitergespielt werden 
 
-* ####Alle
+* __Alle__
     * Alle müssen trinken          
-* ####Nachbarn
+* __Nachbarn__
     * Deine Nachbarn müssen trinken     
-* ####Schere Stein Papier 
+* __Schere Stein Papier__ 
     * Spiele mit einem Spieler deiner Wahl Schere Stein Papier, der Verlieren muss trinken         
-* ####Du 
+* __Du__ 
     * Du musst trinken          
-* ####Du wählst
+* __Du wählst__
     * Ein Spieler deiner Wahl muss trinken  
-* ####Zugabe
+* __Zugabe__
     * Du musst noch einen Stein ziehen
     * Deine Mitspieler müssen dich druch lautes wiederholtes  rufen von "Zugabe!" unterstützen
-* ####Gib weiter und trink 
-    * Trinke für jeden Debuff von dem du betroffen bist einen und gebe sie an Spieler deiner Wahl ab
-    * Solltest du von keinen Debuff betroffen sein trink 1.
+* __Voodoo Zauber__ 
+    * Trinke für jede Infektion von der du betroffen bist einen und gebe sie an Spieler deiner Wahl ab
+    * Solltest du von keiner Infektion betroffen sein trink 1.
 
-###3.2 Debuff
+###3.2 Infektionen
 Diese Anweisungen gelten bis der Turm fällt<br/>
-Solltest du einen Stein ziehen, von dessen Debuff du schon betroffen sein,  musst du ihn einen anderen Spieler weitergeben
+Solltest du einen Stein ziehen, von dessen Infektion aber schon betroffen sein, musst du einen weitern Mitspieler deiner Wahl mit dieser infizieren 
 
-* ####Saufkumpane
+* __Saufkumpane__
     * Du und ein Spieler deiner Wahl sind nun Saufkumpanen
     * Wenn ein Saufkumpane trinkt, müssen alle seine Saufkumpanen trinken
     * Es können mehr als 2 Spieler Saufkumpanen sein
-* ####Handwechsel  
+* __Handwechsel__  
     * Du musst mit deiner nichtdomintaten Hand spielen
-* ####Can't touch this
+* __Can't touch this__
     * Dir ist es untersagt den Turm dierekt mit deinen Händen zu berühren
     * Benutze hier für z.B. Zahnstocher, Stiffte, Essstäbchen, etc.
-    *  
-* ####Schleimer
+* __Schleimer__
     * Bevor du trinkst musst du einem Mitspieler ein Kompliment machen
-    * Vergisst du dies musst du trinken
 
 ###3.3 Die Mächtigen 3
 Spieler die einen dieser mächtigen Steine ziehen müssen den zugehörigen Hut tragen<br/>
 Diese Anweisungen gelten bis ein anderer Spieler denselben mächtigen Stein zieht<br/>
 Sollte es einem Spieler gelingen den selben mächtigen Stein mehrmals zu ziehen, wird dessen Effekt verstärkt
 
-* ####Double Dmg
+* __Double Dmg__
     * __Hut:__ Zylinder
     * __Effekt:__ Bringst du einen Spieler zum trinken, muss er **[2]** mal so viel trinken
     * __Verstärkung:__ +1
-* ####Kollateralschaden
+* __Kollateralschaden__
     * __Hut:__ Uschanka
     * __Effekt:__ Bringst du einen Spieler zum trinken, trinken alle Spieler in seinem Umkreis von __[1]__ 
-        * Man kann nur einmal Kolleteral trinken 
     * __Verstärkung:__ +1
-* ####König
+* __König__
     * __Hut:__ Krone
     * __Effekt:__ Wenn ein Spieler dich zum trinken bringt, muss er selbst **[1]**  mal trinken
     * __Verstärkung:__ +1
